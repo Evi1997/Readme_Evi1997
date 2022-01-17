@@ -1,1 +1,5 @@
-# Readme_Evi1997
+- 👋 Hi, I’m @Evi1997 and I am 24 years old from Greece
+- 👀 I’m interested in JS and Python
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS
+- 📫 How to reach me: alifbf11@gmail.com
